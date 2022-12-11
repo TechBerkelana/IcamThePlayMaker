@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcamThePlayMaker
 - 👀 I’m interested in Project/Product Management & data-related fields, especially marketing data.
-- 🌱 I’m currently learning SQL,lil bit python, business domain in marketing and tableau dashboard development
+- 🌱 I’m currently learning SQL,lil bit python,tableau dashboard and business domain as general  also specific to marketing 
 - 💞️ I’m looking to collaborate on learning together about marketing & data
 - 📫 How to reach me  How to reach me www.linkedin.com/in/hisyamnashir 
 
