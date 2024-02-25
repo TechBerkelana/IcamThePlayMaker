@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IcamThePlayMaker
-- 👀 I’m interested in Project/Product Management with data-driven outcome
+- 👋 Hi, I’m hisyam
+- 👀 I’m interested in Project/Product Management career
 - 🌱 I’m currently learning SQL, market research, user experience, product, and business as a general 
 - 💞️ I’m looking to collaborate on learning together 
 - 📫  How to reach me www.linkedin.com/in/hisyamnashir 
